@@ -1,81 +1,54 @@
-# 👋 Hi, I'm Mehdi  
-**Machine Learning Engineer | Data Scientist | Biology Background**
+# 👋 Hi, I’m **Mehdi**
 
-🎯 I combine scientific rigor with data-driven thinking to design predictive and interpretable ML models.  
-Currently completing the **Data Scientist program at École des Mines ParisTech (Dec 2025)**.  
-Open to opportunities as a **Junior Data Scientist / ML Engineer**.
+### 🧠 Machine Learning Engineer · Data Scientist · Ex-Biologist  
 
----
-
-## 🧠 About Me
-- 🎓 Master's in **Integrative Biology & Physiology** – Aix-Marseille University  
-- 📊 Transitioned from research in oncology to data science and deep learning  
-- 🧬 Passionate about **AI for biomedical data**, NLP, and explainable AI  
-- 🧰 Skilled in **Python, SQL, PySpark, TensorFlow, Docker, MLflow, and Airflow**  
-- ☁️ **AWS Certified Cloud Practitioner**  
+> I explore how data, models, and code can turn complexity into clarity.  
+> From cell culture experiments to deep neural networks — I’ve always been driven by the same goal: understanding systems and improving them.
 
 ---
 
-## 💼 Professional Experience
+## 🚀 What I’m Working On
 
-### 🔬 Research Assistant – *Institut Paoli-Calmettes, Marseille*  
-**Dec 2022 – Jul 2023**  
-- Designed and monitored experimental protocols; performed statistical analyses (cell viability +70%).  
-- Applied data-driven optimization to improve experimental efficiency by **+50%**.
-
-### 🧪 Research Assistant – *Cancer Research Center of Marseille (CRCM)*  
-**Mar 2022 – Jul 2022**  
-- Processed qPCR and in vivo study data; automated extraction and analysis workflows.  
-- Reduced execution time by **90%** through automation and scripting.
+- 🧩 **Building smarter models** — from churn prediction to multimodal sentiment analysis.  
+- 💡 **Exploring explainable AI (XAI)** and ethical ML.  
+- ☁️ **Scaling workflows** with Docker, MLflow, Airflow, and PySpark.  
+- 🧬 Bridging science and data — translating biological insight into machine intelligence.
 
 ---
 
-## 🚀 Projects
+## 🔬 Featured Projects
 
-### 🧩 Customer Churn Prediction
-- Built predictive models achieving **ROC-AUC ≈ 0.85**.  
-- Explained key customer retention drivers (contracts, billing duration, etc.).  
-
-### 💬 Instagram Comment Sentiment Analyzer
-- Developed a **multilingual sentiment analysis** pipeline using  
-  **BERT, Twitter RoBERTa**, and emoji-based sentiment fusion.
+| Project | Description | Stack |
+|----------|--------------|-------|
+| **Customer Churn Prediction** | Built and evaluated ML models (ROC-AUC ≈ 0.85) to identify key retention drivers like contracts, billing, and service duration. | `Python`, `scikit-learn`, `pandas`, `Power BI` |
+| **Instagram Sentiment Analyzer** | Deep learning–based multilingual comment classifier using BERT, RoBERTa, and emoji sentiment fusion. | `Transformers`, `PyTorch`, `NLP`, `HuggingFace` |
 
 ---
 
-## 🧰 Technical Skills
+## 🧰 Tech Toolbox
 
-**Programming:** Python, R, SQL, PySpark, Bash  
-**ML & AI:** Scikit-learn, TensorFlow, Keras, XAI, NLP, Recommender Systems  
-**Data Engineering:** Docker, Airflow, MLflow, APIs, Big Data  
-**Visualization:** Matplotlib, Seaborn, Bokeh, Power BI  
-**Tools:** Git, GitHub, Linux  
-**Languages:** 🇬🇧 English (C1) | 🇫🇷 French (C1) | 🇩🇪 German (B2) | 🇹🇳 Arabic (C1)
+`Python` · `SQL` · `PySpark` · `TensorFlow` · `Keras` · `Docker` · `MLflow` · `Airflow`  
+`Pandas` · `NumPy` · `Scikit-learn` · `Power BI` · `Git` · `Linux`
+
+🧩 Always learning — currently exploring **Graph ML** and **Reinforcement Learning**.
 
 ---
 
-## 🎓 Education
+## 🎓 Background
 
-**Data Scientist Program** – *Datascientest x École des Mines ParisTech (PSL)*  
-📅 Sep 2025 – Dec 2025  
-> 400h of advanced predictive modeling, data engineering, and MLOps.  
+Biologist turned data scientist.  
+Trained at **École des Mines ParisTech (Mines Paris – PSL)** and **Aix-Marseille University**.  
 
-**Master’s in Integrative Biology & Physiology** – Aix-Marseille University  
-📅 Sep 2021 – Jul 2023  
-
-**Bachelor’s in Cellular Biology & Immunology** – Aix-Marseille University  
-📅 Sep 2017 – Jul 2020  
+> I bring the precision of experimental design into the data world — every model, every metric, every insight should *mean* something.
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehdizaghdoudi)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/zassoulich)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaghdoudi.mehdi@gmail.com)
-
-📍France  
-📱 +33 6 09 03 47 06  
+[💼 LinkedIn](https://linkedin.com/in/mehdizaghdoudi)  
+[🐙 GitHub](https://github.com/zassoulich)  
+📫 **zaghdoudi.mehdi@gmail.com**
 
 ---
 
-⭐ *“Bridging life sciences and AI to make data meaningful.”*
+⭐️ *If you share an interest in ethical AI, MLOps, or scientific data analysis — let’s connect!*
